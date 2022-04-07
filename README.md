@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AdelaMD
+- 👀 I’m newbie in Programming World 🪐 
+- 🌱 I’m currently learning CS50 💻
+- 💞️ I’m open to any feedbacks, ideas, advices ✨
